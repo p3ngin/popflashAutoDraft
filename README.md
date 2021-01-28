@@ -6,3 +6,9 @@ Script requires 10 arguments while running and each argument should be the profi
 All possible team combinations are created and an average HLTV rating for each team combination is assigned. 
 
 The output will provide 3 options for team combinations with lowest difference in average HLTV rating.
+
+
+## To-Do -------------
+- [ ] add validation on script input
+- [ ] final output to be easier to read
+- [ ] automating the generation of players in current lobby
